@@ -1,4 +1,4 @@
-# GS---Computer-Organization-and-Architecture
+# GS   Computer-Organization-and-Architecture
 Projeto desenvolvido para a Global Solution - COA 
 O sistema utiliza um microcontrolador para aferir temperatura, luminosidade e vibração estrutural, implementando rotinas de automação de segurança por meio de alertas audiovisuais e acionamento de atuadores mecânicos.
 
