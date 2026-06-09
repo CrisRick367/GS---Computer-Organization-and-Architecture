@@ -8,5 +8,5 @@ O sistema utiliza um microcontrolador para aferir temperatura, luminosidade e vi
 
 ## Links e Entregáveis
 * [Simulação no Tinkercad](https://www.tinkercad.com/things/aMpDT2L7D8J-sistema-iot-para-monitoramento-de-capsula-espacial?sharecode=cIwtdGuaWn0b1bXvkYbnDaYbDeEiYINcM54RntQxWWY)
-* [Vídeo de Demonstração](https://youtu.be/cupWJ2E0pOI)
+* [Vídeo de Demonstração](https://youtu.be/lcDYdWyy3VE)
 * Relatório Técnico: Disponível nos arquivos deste repositório.
